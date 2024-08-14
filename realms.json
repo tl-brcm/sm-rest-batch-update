@@ -1,0 +1,99 @@
+{
+  "responseType": "links",
+  "path": "children",
+  "xpsclass": "SmRealms",
+  "data": [
+    {
+      "id": "CA.SM::Realm@06-000241df-bbc2-162f-af63-03230a240000",
+      "path": "/SmDomains/wsXmlDomain/SmRealms/wsXmlRealm",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-000241df-bbc2-162f-af63-03230a240000"
+    },
+    {
+      "id": "CA.SM::Realm@06-000b20df-38a5-1678-ae4c-000c0a242020",
+      "path": "/SmDomains/test+domain/SmRealms/headers_form",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-000b20df-38a5-1678-ae4c-000c0a242020",
+      "desc": "protects headers_form.jsp and with default form auth scheme"
+    },
+    {
+      "id": "CA.SM::Realm@06-00038a41-bb71-162f-af63-03230a240000",
+      "path": "/SmDomains/wsDomain/SmRealms/wsRealm",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-00038a41-bb71-162f-af63-03230a240000"
+    },
+    {
+      "id": "CA.SM::Realm@06-8a992ca0-30ab-44cb-9f6d-b75701db1555",
+      "path": "/SmDomains/FedBackChannelCertDomain/SmRealms/FedCertBackChannelRealm",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-8a992ca0-30ab-44cb-9f6d-b75701db1555",
+      "desc": "Realm for Certificate BackChannel communications"
+    },
+    {
+      "id": "CA.SM::Realm@06-1cdeddf8-9346-4626-8c5b-6d674c8fb302",
+      "path": "/SmDomains/FedBackChannelBasicDomain/SmRealms/FedBasicBackChannelRealm",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-1cdeddf8-9346-4626-8c5b-6d674c8fb302",
+      "desc": "Realm for basic BackChannel communications"
+    },
+    {
+      "id": "CA.SM::Realm@06-a0cf82a7-d831-453d-ac9e-8ed814f90369",
+      "path": "/SmDomains/FederationWebServicesDomain/SmRealms/FederationWebServicesRealm",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-a0cf82a7-d831-453d-ac9e-8ed814f90369"
+    },
+    {
+      "id": "CA.SM::Realm@06-0000a41b-6958-1540-8792-04030a242020",
+      "path": "/SmDomains/test+domain/SmRealms/test+realm",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-0000a41b-6958-1540-8792-04030a242020",
+      "desc": "protected by login.fcc - updated"
+    },
+    {
+      "id": "CA.SM::Realm@06-0dc8052d-c84e-47b3-9f5c-98ecd0c46192",
+      "path": "/SmGlobalDomains/03-7bdf31f2-44d7-4d7b-a8f5-5de2eaa0b634/SmGlobalRealms/06-0dc8052d-c84e-47b3-9f5c-98ecd0c46192",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-0dc8052d-c84e-47b3-9f5c-98ecd0c46192",
+      "desc": "* Please do not edit this realm! This is a global realm. *"
+    },
+    {
+      "id": "CA.SM::Realm@06-00096b33-cb0f-1581-8d8c-04210a242020",
+      "path": "/SmDomains/test+domain/SmRealms/header.jsp",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-00096b33-cb0f-1581-8d8c-04210a242020",
+      "desc": "protects header.jsp and with vip saas multi factor auth"
+    },
+    {
+      "id": "CA.SM::Realm@06-51db1906-7a91-4b0d-9772-954444d1ae70",
+      "path": "/SmDomains/FederationWebServicesDomain/SmRealms/public",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-51db1906-7a91-4b0d-9772-954444d1ae70"
+    },
+    {
+      "id": "CA.SM::Realm@06-000558ca-58ee-1674-ae4c-000c0a242020",
+      "path": "/SmAffiliateDomains/oidcp%3AJasper/SmRealms/oidcp%3AJasper_az",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-000558ca-58ee-1674-ae4c-000c0a242020",
+      "desc": "Backing Object for Partnership Federation - do not edit"
+    },
+    {
+      "id": "CA.SM::Realm@06-00012a05-b533-157f-8d8c-04210a242020",
+      "path": "/SmDomains/test+domain/SmRealms/OIDC+Authorize",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-00012a05-b533-157f-8d8c-04210a242020"
+    },
+    {
+      "id": "CA.SM::Realm@06-000274fc-ac9e-157f-8d8c-04210a242020",
+      "path": "/SmAffiliateDomains/oidcp%3ATest+Auth+Provider+SM/SmRealms/oidcp%3ATest+Auth+Provider+SM_az",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-000274fc-ac9e-157f-8d8c-04210a242020",
+      "desc": "Backing Object for Partnership Federation - do not edit"
+    },
+    {
+      "id": "CA.SM::Realm@06-00057832-3b37-1678-ae4c-000c0a242020",
+      "path": "/SmDomains/test+domain/SmRealms/headers_vipah",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-00057832-3b37-1678-ae4c-000c0a242020",
+      "desc": "protected by vip auth hub"
+    },
+    {
+      "id": "CA.SM::Realm@06-00008a34-cb78-1581-8d8c-04210a242020",
+      "path": "/SmDomains/test+domain/SmRealms/headers3.jsp",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-00008a34-cb78-1581-8d8c-04210a242020",
+      "desc": "protects headers_form_vipah.jsp with form and auth hub scheme"
+    },
+    {
+      "id": "CA.SM::Realm@06-00015e03-3af5-1678-ae4c-000c0a242020",
+      "path": "/SmDomains/test+domain/SmRealms/headers_vip",
+      "href": "https://ps2.demo-broadcom.com:8443/ca/api/sso/services/policy/v1/objects/CA.SM::Realm@06-00015e03-3af5-1678-ae4c-000c0a242020",
+      "desc": "protected by vip saas"
+    }
+  ],
+  "links": {}
+}
